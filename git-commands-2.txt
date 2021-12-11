@@ -1,0 +1,12 @@
+git status
+git init
+git config --
+git config
+git add
+git commit
+git log
+git edit
+git *
+git madhavimetkari
+git pass Appe@8795
+
