@@ -7,8 +7,6 @@ git commit
 git log
 git edit
 git *
-scenario1
-scenario2
-scenario3
-----------------------------------------------
+git madhavimetkari
+git pass Appe@8795
 
